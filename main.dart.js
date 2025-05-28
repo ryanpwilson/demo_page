@@ -59365,7 +59365,7 @@ ki(a){return B.b.p(A.a(["en","es"],t.s),a.gbO())},
 jx(a){return!1}}
 A.z8.prototype={
 gK4(){return"Nutrafol Localization Demo"},
-goj(){return"Hello User!"},
+goj(){return"Hello, User!"},
 gHV(){return"English"},
 gAv(){return"Spanish"},
 gK9(){return"Change language"}}
